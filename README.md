@@ -11,3 +11,4 @@ The Crypto.Com USD Coin Interest Rate :
 ![Screenshot](cryptocom_usdc_int_rate.jpg)
 (Source : Crypto.Com app - Crypto Earn screen, 20 Mar 2022)
 
+https://yentell.github.io/wtcicd/
