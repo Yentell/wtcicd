@@ -13,10 +13,10 @@
     <h2>Now is <span id="now"></span></h2>  
     <div id="magic"></div>
     <h3> 
-      <p style="color:Red; font-size: 30px">id="price"
+      <p style="color:Red; font-size: 30px" id="price">
     </h3>
     <script src="script.js"></script>
-    <script>
+    <script> 
 let url = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=usd-coin"
 fetch(url)
 .then(x => x.text())
