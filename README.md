@@ -1,2 +1,2 @@
 # wtcicd
-To promote easier access to cryto currency market information. 
+We aim to promote USD stable coins as a hedge and an alternative investment for non-tech savvy and non-crytocurrency savvy investors to earn and generate reasonably good enough returns to counter the current high inflation environment which is a major concern for common fols. For example the current inflation rate in US is around 7.9% p.a. and the return on USD Stable Coin in CRYTO.COM can be around 12% p.a.
