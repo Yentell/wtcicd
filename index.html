@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Make you HUAT BIG BIG</h1>
+    <h2>Now is <span id="now"></span></h2>  
+    <div id="magic"></div>
+    <h3 id="price"></h3>
+    <script src="script.js"></script>
+    <script>
+let url = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=usd-coin"
+fetch(url)
+.then(x => x.text())
+.then(y => document.getElementById("magic").innerHTML = y);
+
+var today = new Date();
+var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+var dateTime = date+' '+time;
+document.getElementById("now").innerHTML = dateTime;
+  
+    </script>
+  </body>
+</html>
