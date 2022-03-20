@@ -5,5 +5,5 @@ The US Inflation Rate Chart :
 ![Screenshot](us_inflation_rate_chart.png)
 
 The Crypto.Com USD Coin Interest Rate :
-![Screenshot](cryptocom_usdc_int_rate0.jpg)
+![Screenshot](cryptocom_usdc_int_rate.jpg)
 
